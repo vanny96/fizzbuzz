@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonApp</string>
+    <string name="button_text">Click!</string>
+    <string name="fizz_buzz">FIZZBUZZ</string>
+    <string name="fizz">FIZZ</string>
+    <string name="buzz">BUZZ</string>
+</resources>
